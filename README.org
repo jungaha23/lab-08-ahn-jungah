@@ -6,7 +6,9 @@
 
 * GitHub username: jungaha23
 
-* Notes: I can't tell if my task E code actually made the image bigger by 200%, but it is successfully making it more "blurry".
+* Notes: 
+- I can't tell if my task E code actually made the image bigger by 200%, but it is successfully making it more "blurry". 
+- sample-main.cpp is the main main.cpp
 
 
 
